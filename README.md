@@ -65,7 +65,7 @@ startowy na wybrany odcinek i uruchom `F5`.
 
 | Odc. | Temat | Kształt delegata | Projekt | Wideo | Blog |
 |---|---|---|---|---|---|
-| 01 | Przycisk na padzie | `void ()` | wkrótce | wkrótce | wkrótce |
+| 01 | Przycisk na padzie | `void ()` | [`DevHobby.L01-ButtonOnGamepad`](DevHobby.L01-ButtonOnGamepad/) | [YouTube](https://www.youtube.com/watch?v=xahHC93omPs) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegaty-w-csharp-dlaczego-metode-przypisujesz-bez-nawiasow/) |
 | 02 | „Hello World” delegatów | `void (string)` | wkrótce | wkrótce | wkrótce |
 | 03 | Generator powitań | `string ()` | wkrótce | wkrótce | wkrótce |
 | 04 | Prosty kalkulator | `int (int, int)` | wkrótce | wkrótce | wkrótce |
