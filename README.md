@@ -68,7 +68,7 @@ startowy na wybrany odcinek i uruchom `F5`.
 | 01 | Przycisk na padzie | `void ()` | [`DevHobby.L01-ButtonOnGamepad`](DevHobby.L01-ButtonOnGamepad/) | [YouTube](https://www.youtube.com/watch?v=xahHC93omPs) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegaty-w-csharp-dlaczego-metode-przypisujesz-bez-nawiasow/) |
 | 02 | „Hello World” delegatów | `void (string)` | [`DevHobby.L02-HelloWorldDelegates`](DevHobby.L02-HelloWorldDelegates/) | [YouTube](https://www.youtube.com/watch?v=11OfggMw9so) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegat-z-parametrem-csharp/) |
 | 03 | Generator powitań | `string ()` | [`DevHobby.L03-GreetingProvider`](DevHobby.L03-GreetingProvider/) | [YouTube](https://www.youtube.com/watch?v=acUVI2kOtB0) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegat-zwracajacy-wartosc-csharp/) |
-| 04 | Prosty kalkulator | `int (int, int)` | wkrótce | wkrótce | wkrótce |
+| 04 | Prosty kalkulator | `int (int, int)` | [`DevHobby.L04-SimpleCalculator`](DevHobby.L04-SimpleCalculator/) | [YouTube](https://www.youtube.com/watch?v=3tV1z7PwtCY) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegat-z-wieloma-parametrami-csharp/) |
 
 Cztery pierwsze odcinki budują **Poziom 0 — Mechanika delegatów**: te same trzy kroki
 (definiujesz → przypisujesz → wywołujesz), za każdym razem z inną sygnaturą — zero
