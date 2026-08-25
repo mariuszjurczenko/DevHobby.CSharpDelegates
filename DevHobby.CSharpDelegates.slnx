@@ -5,4 +5,5 @@
     <Project Path="DevHobby.L03-GreetingProvider/DevHobby.L03-GreetingProvider.csproj" />
     <Project Path="DevHobby.L04-SimpleCalculator/DevHobby.L04-SimpleCalculator.csproj" />
   </Folder>
+  <Project Path="DevHobby.L05-AgeGate/DevHobby.L05-AgeGate.csproj" />
 </Solution>
