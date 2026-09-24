@@ -4,6 +4,7 @@
     <Project Path="DevHobby.L02-HelloWorldDelegates/DevHobby.L02-HelloWorldDelegates.csproj" />
     <Project Path="DevHobby.L03-GreetingProvider/DevHobby.L03-GreetingProvider.csproj" />
     <Project Path="DevHobby.L04-SimpleCalculator/DevHobby.L04-SimpleCalculator.csproj" />
+    <Project Path="DevHobby.L05-AgeGate/DevHobby.L05-AgeGate.csproj" />
+    <Project Path="DevHobby.L06-OrchestraConductor/DevHobby.L06-OrchestraConductor.csproj" />
   </Folder>
-  <Project Path="DevHobby.L05-AgeGate/DevHobby.L05-AgeGate.csproj" />
 </Solution>
