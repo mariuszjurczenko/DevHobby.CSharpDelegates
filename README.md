@@ -34,6 +34,10 @@ DevHobby.CSharpDelegates/
 │  ├─ DevHobby.L05-AgeGate.csproj
 │  ├─ Program.cs
 │  └─ steps/
+├─ DevHobby.L06-OrchestraConductor/       odcinek 6 — delegat jako parametr metody
+│  ├─ DevHobby.L06-OrchestraConductor.csproj
+│  ├─ Program.cs
+│  └─ steps/
 ```
 
 - **`Program.cs`** w każdym projekcie to wersja finalna ta, którą widzisz uruchomioną
@@ -61,6 +65,7 @@ dotnet run --project DevHobby.L02-HelloWorldDelegates
 dotnet run --project DevHobby.L03-GreetingProvider
 dotnet run --project DevHobby.L04-SimpleCalculator
 dotnet run --project DevHobby.L05-AgeGate
+dotnet run --project DevHobby.L06-OrchestraConductor
 ```
 
 Albo otwórz `DevHobby.CSharpDelegates.sln` w Visual Studio / Rider / VS Code, ustaw projekt
@@ -75,6 +80,7 @@ startowy na wybrany odcinek i uruchom `F5`.
 | 03 | Generator powitań | `string ()` | [`DevHobby.L03-GreetingProvider`](DevHobby.L03-GreetingProvider/) | [YouTube](https://www.youtube.com/watch?v=acUVI2kOtB0) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegat-zwracajacy-wartosc-csharp/) |
 | 04 | Prosty kalkulator | `int (int, int)` | [`DevHobby.L04-SimpleCalculator`](DevHobby.L04-SimpleCalculator/) | [YouTube](https://www.youtube.com/watch?v=3tV1z7PwtCY) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegat-z-wieloma-parametrami-csharp/) |
 | 05 | Bramka wiekowa | `bool (int)` | [`DevHobby.L05-AgeGate`](DevHobby.L05-AgeGate/) | [YouTube](https://www.youtube.com/watch?v=OwBahfq-wy4) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegat-bool-csharp) |
+| 06 | Dyrygent i orkiestra | delegat jako parametr metody | [`DevHobby.L06-OrchestraConductor`](DevHobby.L06-OrchestraConductor/) | [YouTube](https://www.youtube.com/watch?v=ZtzgDweD8Ag) | [dev-hobby.pl](https://dev-hobby.pl/csharp/delegat-jako-parametr-csharp/) |
 
 Cztery pierwsze odcinki budują **Poziom 0 — Mechanika delegatów**: te same trzy kroki
 (definiujesz → przypisujesz → wywołujesz), za każdym razem z inną sygnaturą — zero
